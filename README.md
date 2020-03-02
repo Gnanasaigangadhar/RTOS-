@@ -1,2 +1,0 @@
-# RTOS-
-RTOS COURSE 
